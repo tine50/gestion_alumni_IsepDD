@@ -10,9 +10,13 @@
 ## About Laravel
 Procédure de telechragement du projet
 git clone https://github.com/tine50/gestion_alumni_IsepDD.git
+
 composer install
+<br>
 php artisan key:generate
+<br>
 Create database
+<br>
 php artisan migrate
 
 ## License
