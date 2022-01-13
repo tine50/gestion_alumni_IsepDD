@@ -8,9 +8,10 @@
 </p>
 
 ## About Laravel
-Procédure de telechragement du projet
+Procédure de telechargement du projet
+<br>
 git clone https://github.com/tine50/gestion_alumni_IsepDD.git
-
+<br>
 composer install
 <br>
 php artisan key:generate
